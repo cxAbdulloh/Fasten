@@ -1,0 +1,42 @@
+.cards {
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    display: flex;
+    background: linear-gradient(to bottom, #fff, #EFDECD);
+    overflow-x: scroll;
+    padding: 35px 0;
+}
+.cards::-webkit-scrollbar {
+    display: none;
+}
+.imagee {
+    width: 430px;
+    height: 445px;
+}
+.card-container {
+    flex-direction: column;
+    display: flex;
+    background-color: #fff;
+    border-radius: 2.5rem;
+}
+.card-text {
+    font-size: 35px;
+    font-weight: 600;
+    color: #1D1D1F;
+    line-height: 27px;
+}
+h3 {
+    font-size: 17px;
+    font-weight: 500;
+    padding: 10px 0;
+}
+.flex {
+    padding: 37px 0;
+}
+@media (max-width: 578px) {
+    .imagee {
+        width: 410px;
+        height: 415px;
+    }
+}

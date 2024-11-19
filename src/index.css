@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Belleza&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", serif;
+}
+body {
+    background: #EFDECD;
+    min-height: 100vh;
+}
+li {
+    list-style: none;
+}
