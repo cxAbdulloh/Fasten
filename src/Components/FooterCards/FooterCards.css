@@ -11,8 +11,8 @@
     display: none;
 }
 .imagee {
-    width: 430px;
-    height: 445px;
+    width: 400px;
+    height: 400px;
 }
 .card-container {
     flex-direction: column;
@@ -33,10 +33,4 @@ h3 {
 }
 .flex {
     padding: 37px 0;
-}
-@media (max-width: 578px) {
-    .imagee {
-        width: 410px;
-        height: 415px;
-    }
 }

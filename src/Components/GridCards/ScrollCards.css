@@ -22,7 +22,7 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    padding: 4rem 0.10rem;
+    padding: 4rem 0px;
 }
 .grid_span {
     background-color: #F2F0EF;

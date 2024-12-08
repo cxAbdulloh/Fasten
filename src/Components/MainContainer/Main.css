@@ -87,7 +87,7 @@ video {
 }
 @media (max-width: 785px) {
     ._text {
-        font-size: 2rem;
+        font-size: 2.5rem;
         max-width: max-content;
         margin: auto;
     }
@@ -107,7 +107,7 @@ video {
         font-size: 1.6rem;
     }
     ._text {
-        font-size: 1.5rem;
+        font-size: 1.7rem;
         max-width: 50%;
         margin: auto;
     }
