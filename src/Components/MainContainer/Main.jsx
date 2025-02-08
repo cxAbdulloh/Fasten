@@ -27,7 +27,12 @@ const MainContainer = () => {
             </div>
           </div>
           <div className="right">
-            <video src={assets.video} autoPlay loop></video>
+        <video src={assets.video} 
+        autoPlay
+        loop
+        muted
+        playsInline>
+        </video>
           </div>
         </div>
         <div className="bottom-text">
